@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CW Chatbot</title>
+    <!-- Add the Bootstrap CSS link in the head section -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <style>
+        .logo-img {
+            max-width: 200px;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <img src="static/cw-services.png" alt="CW Services Logo" class="img-fluid logo-img">
+            </div>
+        </div>
+        <h1 class="mt-4">Chatbot</h1>
+
+        <form action="/" method="POST" class="mt-4">
+            <div class="mb-3">
+                <label for="prompt" class="form-label">User Input:</label>
+                <input type="text" class="form-control" id="prompt" name="prompt">
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+
+        {% if prompt %}
+        <div class="mt-4">
+            <h3>User Input:</h3>
+            <p>{{ prompt }}</p>
+        </div>
+        {% endif %}
+
+        {% if response %}
+        <div class="mt-4">
+            <h3>Response:</h3>
+            <p>{{ response }}</p>
+        </div>
+        {% endif %}
+
+        <!-- Add a button to trigger the GPT model to ask questions -->
+        <form action="/ask_questions" method="POST" class="mt-4">
+            <button type="submit" class="btn btn-primary">Ask Questions</button>
+        </form>
+    </div>
+
+    <!-- Add the Bootstrap JS scripts at the end of the body -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

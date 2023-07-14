@@ -1,0 +1,1006 @@
+Question      Response            Score
+               Mechanical           
+              hazard is
+              controlled using
+              LOTO, cut hazard
+              is controlled using
+              cut resistant
+              gloves, dust in
+              eyes hazard is
+              controlled using
+What are      safety glasses.
+possible      Electrical LOTO
+hazards and process called for
+controls      all ppe required
+associated for under 1.2 cal
+with          and setting up a
+conducting a boundary around
+repair on the the control
+asset?        cabinet.                 10
+What are
+possible
+hazards and
+controls
+associated
+with
+conducting a
+repair on the
+asset?         crush, pinch             0
+What are
+possible
+hazards and
+controls
+associated
+with
+conducting a
+repair on the confined space,
+asset?        crush, pinch              0
+What are
+possible
+hazards and Working from
+controls      hights, Pinch,
+associated Electrical (480),
+with          LOTO,
+conducting a Wave/Danger
+repair on the Tape, radio/other
+asset?        ppe                       5
+What are
+possible
+hazards and
+controls
+associated
+with
+conducting a pinch hazard,
+repair on the crush hazard,
+asset?        LOTO                      5
+                Personal
+                Protective
+                Equipment (PPE):
+                Ensuring that
+                technicians wear
+                appropriate PPE
+                such as insulated
+                gloves, safety
+                glasses, and
+                protective clothing
+                to prevent
+                electrical shocks,
+                chemical
+                exposure, and
+                injuries from
+                moving parts.
+
+                Lockout/Tagout
+                (LOTO):
+                Implementing
+                proper LOTO
+                procedures to
+                isolate energy
+                sources and
+                prevent accidental
+                startup of
+                machinery during
+                repair work.
+
+                Hazardous
+                Energy Control:
+                Following specific
+                procedures to
+                control hazardous
+                energy sources,
+                such as locking
+                out electrical
+                switches, closing
+                valves, and
+                bleeding pressure
+                from pneumatic
+                systems.
+
+                Training and
+                Competency:
+                Ensuring
+                technicians are
+                adequately trained
+                and competent to
+                perform repairs,
+                understand the
+                associated
+                hazards, and
+                follow safe work
+                practices.
+
+                Fall Protection:
+What are        Using fall
+possible        protection
+hazards and     equipment like
+controls        harnesses,
+associated      lanyards, and
+with            guardrails when
+conducting a    working at heights
+repair on the   to prevent falls.
+asset?
+                Welding hazards
+                can be controlled
+                by using welding
+                curtains and
+                appropriate
+                protective gear
+                such as welding
+                helmets and
+                gloves. Chemical
+                hazards can be
+                controlled by
+                using proper
+                ventilation and
+                wearing chemical-
+                resistant gloves
+                and goggles.
+                Additionally,
+                following
+                lockout/tagout
+What are        procedures for
+possible        energy isolation
+hazards and     and ensuring
+controls        proper training for
+associated      handling
+with            hazardous
+conducting a    materials are
+repair on the   crucial safety
+asset?          controls.               10
+                Noise hazards can
+                be controlled by
+                using hearing
+                protection such as
+                earplugs or
+                earmuffs. Fall
+                hazards can be
+                mitigated by
+                utilizing proper fall
+                protection
+                equipment like
+                harnesses and
+                safety nets.
+                Furthermore,
+                implementing
+What are        proper machine
+possible        guarding and
+hazards and     ensuring proper
+controls        ergonomics during
+associated      the repair process
+with            are essential
+conducting a    controls to prevent
+repair on the   injuries.
+asset?                                   5
+What are
+possible
+hazards and
+controls
+associated
+with
+conducting a
+repair on the
+asset?        Loto, pinch point          5
+              Hazards may
+              include minor cuts
+              or scratches from
+              sharp edges.
+              Controls can
+              involve wearing
+What are      general-purpose
+possible      gloves and being
+hazards and cautious while
+controls      handling tools.
+associated However, these
+with          hazards are
+conducting a relatively low risk
+repair on the and can be
+asset?        managed easily.            0
+What are
+possible
+hazards and
+controls
+associated
+with          Gravity, Loto,
+conducting a  working from
+repair on the height, Danger
+asset?        tape                 5
+              There are no
+              significant
+              hazards
+              associated with
+              conducting a
+              repair on this
+              asset. The repair
+              process is
+              straightforward
+              and does not
+              involve any high-
+              risk activities.
+              Basic safety
+What are      precautions like
+possible      wearing
+hazards and appropriate
+controls      personal
+associated protective
+with          equipment and
+conducting a maintaining a
+repair on the clean work area
+asset?        are sufficient.      0
+               Having pictures
+              taken of the issue
+              before hand and
+              watching the
+How was       machine run in
+wrench time person we knew
+maximized what the issue
+for the       was and how to
+repair?       fix the tracking
+Describe      before the dtw
+preparations started, showing
+taken by the up to the work site
+technician    10 to 15 minutes
+and planning. before hand.
+                                   5
+                All tools and
+              parts were on site
+              before the repair
+How was       action took place.
+wrench time Technician utilized
+maximized vendor manuals
+for the       to familiarize
+repair?       themselves with
+Describe      the drawings of
+preparations this conveyor
+taken by the component before
+technician    the repair action
+and planning. took place.          5
+               Having parts
+              kitted and having
+              emergency parts
+              listed encase a
+              point of no return
+              was reached.
+              Setting up a
+              danger boundary
+              for overhead work
+              and having the
+How was       wave at the asset
+wrench time before the job
+maximized started. Clear
+for the       communication
+repair?       amongst
+Describe      technicians with
+preparations what could be
+taken by the done while other
+technician    tasks were also
+and planning. being done.            10
+              The technician
+              conducted a
+              thorough pre-job
+              analysis to identify
+              potential
+              challenges and
+              gather all
+              necessary tools
+              and equipment
+              before starting the
+              repair. They also
+              ensured that all
+              required spare
+              parts were readily
+              available on-site.
+              By carefully
+              planning the
+How was       repair process
+wrench time and having
+maximized everything
+for the       prepared in
+repair?       advance, the
+Describe      technician was
+preparations able to minimize
+taken by the downtime and
+technician    maximize wrench
+and planning. time.                  10
+              I conducted a
+              thorough
+              equipment
+              inspection before
+              starting the repair
+              to ensure all
+              necessary tools
+              and parts were
+              readily available.
+              They also
+              coordinated with
+              other team
+              members to
+              optimize resource
+              allocation and
+How was       minimize any
+wrench time potential delays.
+maximized By having a well-
+for the       defined repair plan
+repair?       and efficient
+Describe      preparation, the
+preparations technician was
+taken by the able to maximize
+technician    wrench time.
+and planning.                        10
+              I technician
+              ensured that all
+              necessary tools
+              and parts were
+              available before
+              starting the repair.
+              also
+              communicated
+              with other team
+              members to
+              coordinate tasks
+How was       and minimize
+wrench time downtime. While
+maximized the preparation
+for the       was adequate,
+repair?       there were some
+Describe      minor delays in
+preparations locating specific
+taken by the tools, impacting
+technician    the overall wrench
+and planning. time.                   5
+              The technician
+              arrived slightly
+              late to the work
+              site, causing a
+              minor delay.
+              Although tools
+              were available,
+              they were not
+              organized
+              efficiently,
+How was       resulting in some
+wrench time time wasted
+maximized searching for
+for the       specific items.
+repair?       Overall, the
+Describe      preparation and
+preparations planning could
+taken by the have been better
+technician    to maximize
+and planning. wrench time.            0
+              To maximize
+              wrench time, the
+              technician
+              conducted a
+              thorough pre-job
+              analysis and
+              created a detailed
+              repair plan. They
+              ensured that all
+              required tools,
+              equipment, and
+              spare parts were
+How was       readily available.
+wrench time Additionally, they
+maximized organized the
+for the       work area
+repair?       efficiently and
+Describe      coordinated with
+preparations other teams to
+taken by the minimize
+technician    interruptions and
+and planning. optimize workflow.     10
+              The technician did
+              not effectively
+              maximize wrench
+              time for the repair.
+              They arrived late
+              to the work site,
+              causing
+              unnecessary
+              delays.
+              Additionally, the
+              necessary tools
+              and parts were
+              not readily
+              available,
+How was
+              resulting in time
+wrench time
+              wasted searching
+maximized
+              for them. A more
+for the
+              efficient approach
+repair?
+              to planning and
+Describe
+              preparation is
+preparations
+              required to
+taken by the
+              improve wrench
+technician
+              time
+and planning.                         0
+               There was an
+              issue with belt
+              tracking due to
+              some rollers being
+              changed before,
+              the belt tracking
+              was not centered
+              so to insure the
+What was      belt and any
+performed on rollers were not
+the asset to damaged be
+fix the root tracked the belt
+cause?        back ton center.        5
+               Removed and
+              replaced snub
+What was      roller's inner
+performed on hollow shaft with a
+the asset to solid shaft to
+fix the root monitor for
+cause?        improved data.          5
+               Repair was a root
+              cause fix for all of
+              the spirals to
+              move the bearing
+              closest to the
+              motor, closer to
+              the motor. During
+              this fix we found
+              that that bearing
+              was already
+What was      failing. In doing
+performed on this fix we
+the asset to corrected an issue
+fix the root before it became a
+cause?        sev event.             10
+             A root cause
+             analysis revealed
+             that the issue was
+             caused by a faulty
+             sensor. The
+             technician
+             replaced the
+             sensor with a new
+             one and
+             performed
+             functional tests to
+             ensure the
+             problem was
+             resolved. They
+             also updated the
+             asset's
+What was     maintenance
+performed on records to reflect
+the asset to the root cause
+fix the root and the steps
+cause?       taken to fix it.      10
+             I address the root
+             cause, I replaced
+             a faulty valve and
+             performed a
+             system flush to
+             remove any
+             contaminants.
+             They also
+             recalibrated the
+             control settings to
+             ensure optimal
+             performance. By
+             addressing the
+             underlying issue
+             and taking
+             preventive
+What was
+             measures, the
+performed on
+             asset's root cause
+the asset to
+             was effectively
+fix the root
+             resolved.
+cause?                              5
+             To address the
+             root cause, the
+             technician
+             replaced a worn-
+             out belt and
+             adjusted the
+             tension. They also
+             inspected and
+             tightened loose
+             bolts. While the
+             actions taken
+             resolved the
+             immediate issue,
+             there was no
+             comprehensive
+             analysis to
+             determine the
+What was     underlying cause
+performed on of the belt wear,
+the asset to which could affect
+fix the root long-term
+cause?       reliability            5
+                The technician
+                attempted to fix
+                the root cause but
+                was unsuccessful
+                in identifying it
+                accurately. As a
+                result, they made
+                several
+                unnecessary
+                repairs, which
+                didn't address the
+                underlying issue.
+                The lack of proper
+What was        diagnosis and
+performed on ineffective actions
+the asset to led to a prolonged
+fix the root downtime for the
+cause?          asset.                0
+                The technician
+                attempted to fix
+                the root cause but
+                was unsuccessful
+                in identifying it
+                accurately. As a
+                result, they
+                performed
+                unnecessary
+                repairs that did
+                not address the
+                underlying issue.
+                This lack of proper
+                diagnosis and
+What was        ineffective actions
+performed on led to prolonged
+the asset to downtime for the
+fix the root asset with no
+cause?          resolution.           0
+What
+precision
+maintenance
+or best
+practices was
+used to
+improve the
+reliability of
+the asset?
+                Measuring the
+Describe how
+                center distance on
+you ensure
+                the rollers for the
+reliability and
+                belt to be tracked
+quality.
+                to.                   5
+What
+precision
+maintenance
+or best
+practices was
+used to
+improve the
+reliability of Attention to
+the asset? detail, reattached
+Describe howWaties wireless
+you ensure sensor to monitor
+reliability and conditions for
+quality.        changes.              5
+                The assembly
+                comes pre-set for
+                this job however
+                the sprocket is
+                always
+                backwards. We
+                had to light the
+                sprocket on the
+                shaft at the
+                correct position by
+                measuring the
+                from the guides
+                over, once the
+                shaft assembly
+                was in place.
+                Motor mounting it
+                always a fixed
+What            location on the
+precision       shaft due to the
+maintenance snap ring fixed in
+or best         the gear box.
+practices wasAlways doing a
+used to         look over once a
+improve the step is completed
+reliability of helps ensure it
+the asset? was done
+Describe howcorrectly. (motor
+you ensure mounting, wiring,
+reliability and hardware being
+quality.        tightened, ect.)      10
+                As part of
+                precision
+                maintenance, the
+                technician utilized
+                laser alignment
+                tools to ensure
+                precise alignment
+                of rotating
+                components. They
+                also performed
+                regular lubrication
+                and implemented
+                vibration analysis
+What            techniques to
+precision       detect any early
+maintenance signs of
+or best         component failure.
+practices wasBy following these
+used to         best practices and
+improve the conducting routine
+reliability of inspections, they
+the asset? ensured the
+Describe howasset's reliability
+you ensure and maintained
+reliability and high-quality
+quality.        performance.          10
+                Precision
+                maintenance was
+                achieved by
+                performing regular
+                vibration analysis
+                to detect any early
+                signs of
+                component wear
+                or misalignment.
+                Lubrication was
+                done using high-
+                quality lubricants
+What            at recommended
+precision       intervals.
+maintenance Additionally,
+or best         routine
+practices wasinspections and
+used to         preventive
+improve the maintenance
+reliability of tasks were carried
+the asset? out to ensure the
+Describe howasset's reliability
+you ensure and maintain a
+reliability and high level of
+quality.        quality.                 10
+                Basic precision
+                maintenance
+                practices were
+                followed, such as
+                lubricating moving
+                parts and
+                performing visual
+What            inspections.
+precision       However, more
+maintenance advanced
+or best         techniques such
+practices wasas condition
+used to         monitoring or
+improve the vibration analysis
+reliability of were not utilized,
+the asset? limiting the overall
+Describe howeffectiveness of
+you ensure the reliability
+reliability and improvement
+quality.        efforts.                  5
+                There were no
+                specific precision
+                maintenance
+                practices
+                implemented to
+                improve asset
+                reliability. Routine
+What            maintenance
+precision       tasks were
+maintenance neglected, and no
+or best         proactive
+practices wasmeasures were
+used to         taken to prevent
+improve the potential failures.
+reliability of The overall
+the asset? approach lacked
+Describe howattention to detail
+you ensure and didn't
+reliability and prioritize reliability
+quality.        and quality.              5
+                Precision
+                maintenance
+                techniques such
+                as laser alignment
+                and regular
+                vibration analysis
+                were employed to
+                ensure accurate
+                alignment and
+                detect any early
+                signs of
+                component wear.
+                Lubrication was
+                performed
+                following
+                manufacturer's
+What            recommendations,
+precision       and routine
+maintenance inspections were
+or best         conducted to
+practices wasidentify and
+used to         address potential
+improve the issues promptly.
+reliability of These practices
+the asset? contribute to
+Describe howmaintaining high
+you ensure reliability and
+reliability and quality standards
+quality.        for the asset.         10
+                No specific
+                precision
+                maintenance
+                practices or best
+                practices were
+                implemented to
+What            improve asset
+precision       reliability. Routine
+maintenance maintenance
+or best         tasks were
+practices wasneglected, and no
+used to         proactive
+improve the measures were
+reliability of taken to prevent
+the asset? potential failures.
+Describe howReliability and
+you ensure quality were not
+reliability and prioritized in this
+quality.        instance.               0
+                No specific
+                precision
+                maintenance or
+                best practices
+                were employed to
+                improve the
+                reliability of the
+                asset.
+                Maintenance was
+                performed on an
+What            ad-hoc basis
+precision       without a
+maintenance systematic
+or best         approach.
+practices wasReliability and
+used to         quality were not
+improve the prioritized,
+reliability of resulting in
+the asset? potential
+Describe howperformance
+you ensure issues and
+reliability and reduced asset
+quality.        lifespan.               0
+                In terms of
+                precision
+                maintenance and
+                ensuring reliability
+                and quality, our
+                approach was
+                insufficient. We
+                did not employ
+                any specific
+                techniques or best
+                practices to
+                optimize the
+                asset's
+                performance. Our
+What            maintenance
+precision       activities were
+maintenance conducted in an
+or best         ad-hoc manner
+practices waswithout a clear
+used to         focus on
+improve the reliability, which
+reliability of increases the
+the asset? likelihood of
+Describe howpotential issues
+you ensure and compromises
+reliability and long-term
+quality.        performance.            0
+What post       Making sure the
+repair actions rollers and belt
+should be      were clean.
+taken?         Making sure all
+Summarize covers were
+any run time replaced and no
+checks, cleantools were left on
+up, rebuild the bed. I learned
+follow up,     that the drum of
+and lessons this bed is much
+learned for wider than the end
+improvement.rollers.                   10
+What post
+repair actions
+should be
+taken?
+Summarize
+any run time
+checks, clean Monitoring of this
+up, rebuild component should
+follow up,     be conducted as
+and lessons normal as
+learned for operations in
+improvement.AFE1 resume.                5
+                Cleaning the area
+               at the top and
+               bottom of the
+               spiral as well as
+               taking down the
+               danger barrier and
+               driving the wave
+               back to its parking
+               spot. Reinstalling
+What post      guards next to the
+repair actions spiral is needed.
+should be      Watching the
+taken?         machine run from
+Summarize the top and
+any run time bottom to make
+checks, cleansure its operating
+up, rebuild correctly. We had
+follow up,     a gearbox puller
+and lessons fail during the job,
+learned for we will need to
+improvement.order a new one.           10
+               After completing
+               the repair, the
+               technician
+               conducted
+               thorough run-time
+               checks to verify
+               that the asset was
+               operating within
+               the expected
+               parameters. They
+               also performed a
+               detailed cleanup
+               to remove any
+               debris or waste
+               generated during
+               the repair
+               process.
+               Additionally, they
+               scheduled a
+               follow-up
+               inspection to
+               monitor the
+What post      asset's
+repair actions performance and
+should be      identify any further
+taken?         maintenance
+Summarize needs. Lessons
+any run time learned from the
+checks, cleanrepair were
+up, rebuild documented to
+follow up,     improve future
+and lessons repair processes
+learned for and enhance
+improvement.overall efficiency.       10
+               After completing
+               the repair, I
+               conducted
+               thorough
+               functional tests to
+               verify the asset's
+               proper operation
+               under different
+               operating
+               conditions. They
+               also cleaned the
+               work area,
+               disposed of any
+               waste materials,
+               and ensured all
+What post      tools were
+repair actions properly stored. A
+should be      post-repair report
+taken?         was generated,
+Summarize documenting
+any run time lessons learned
+checks, cleanand providing
+up, rebuild recommendations
+follow up,     for improvement
+and lessons in future
+learned for maintenance
+improvement.activities.               10
+               After the repair, a
+               basic functional
+               test was
+               conducted to
+               ensure the asset
+               was operational.
+               However, no
+               specific run-time
+What post      checks or
+repair actions performance
+should be      monitoring were
+taken?         carried out. The
+Summarize cleanup was
+any run time sufficient, but
+checks, cleanthere was no
+up, rebuild documentation of
+follow up,     lessons learned or
+and lessons plans for
+learned for continuous
+improvement.improvement.              5
+               After the repair,
+               no run-time
+               checks were
+               performed to
+               validate the
+               effectiveness of
+               the repair. The
+               clean-up process
+What post      was incomplete,
+repair actions with some debris
+should be      left behind. There
+taken?         was no follow-up
+Summarize inspection or
+any run time documentation of
+checks, cleanlessons learned
+up, rebuild for future
+follow up,     improvement.
+and lessons Overall, the post-
+learned for repair actions
+improvement.were inadequate.          0
+               After completing
+               the repair, the
+               technician
+               conducted
+               thorough run-time
+               checks to verify
+               the asset's proper
+               operation and
+               performance.
+               They also ensured
+               a thorough
+               cleanup, removing
+What post      any debris or
+repair actions waste generated
+should be      during the repair
+taken?         process. Lessons
+Summarize learned from the
+any run time repair were
+checks, cleandocumented to
+up, rebuild improve future
+follow up,     maintenance
+and lessons processes and
+learned for enhance overall
+improvement.efficiency.,9            10
+               After the repair,
+               no run-time
+               checks were
+               performed to
+               validate the
+               effectiveness of
+               the repair. The
+               clean-up process
+               was incomplete,
+What post      with debris left
+repair actions behind. There was
+should be      no follow-up
+taken?         inspection or
+Summarize documentation of
+any run time lessons learned
+checks, cleanfor future
+up, rebuild improvement.
+follow up,     Inadequate post-
+and lessons repair actions
+learned for were taken in this
+improvement.case.                  0
+
